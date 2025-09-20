@@ -1,0 +1,6 @@
+[submodule "spud_riscv_soc"]
+	path = spud_riscv_soc
+	url = https://github.com/SD-SPUD/spud_riscv_soc.git
+[submodule "spud_rv32i-tools"]
+	path = spud_rv32i-tools
+	url = https://github.com/SD-SPUD/spud_rv32i-tools.git
